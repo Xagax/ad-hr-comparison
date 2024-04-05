@@ -6,7 +6,9 @@ By executing this script, you can generate organized and structured Excel output
 
 A. To install the necessary Python packages, you can use pip, Python's package manager. Open your command line interface and execute the following command:
 
-  - pip install pandas streamlit rapidfuzz
+```
+pip install pandas streamlit rapidfuzz
+```
 
 These libraries provide functionality for data manipulation (Pandas), creating interactive web applications (Streamlit), fuzzy string matching (RapidFuzz), and working with date and time data (datetime). With these packages installed and imported, you can proceed with your Python script execution.
 
