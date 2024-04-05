@@ -1,4 +1,4 @@
-Python Formatting Script to compare Azure Active Directory file vs HR files.
+## Python Formatting Script to compare Azure Active Directory file vs HR files.
 
 This Python script is designed to streamline the formatting process. Azure Active Directory file vs HR data file are formatted into Excel spreadsheets. 
 
