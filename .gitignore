@@ -1,3 +1,6 @@
 src_old
 files
 outputs
+example.py
+*.xlsx
+llm.py
