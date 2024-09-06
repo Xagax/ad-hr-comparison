@@ -14,6 +14,8 @@ source ~/Sites/pythonenv/bin/activate.fish
 
 ```
 
+Then run the command using pip to install the required packages.
+
 ```
 pip install pandas streamlit rapidfuzz
 ```
